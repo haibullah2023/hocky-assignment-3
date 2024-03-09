@@ -1,0 +1,59 @@
+.container {
+    max-width: 800px;
+}
+
+.chart-container {
+    width: 45%;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    position: relative;
+}
+
+.progress-bar {
+    height: 20px;
+    background-color: #4caf50;
+    border-radius: 5px;
+}
+
+.label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card-container {
+    width: calc(50% - 10px); /* 50% width with spacing between cards */
+}
+
+.card {
+    background-color: #ffffff;
+}
+
+/* You can customize further with your desired card styles */
+
+
+
+
+/* <div class="card p-4 border rounded flex-1">
+<div class="flex">
+    <div class="card-image mr-4">
+        <img src="./Images/5.png" alt="Card Image" class="w-28 h-28 ml-5 object-cover rounded">
+    </div>
+    <div class="card-content ml-6">
+        <h2 class="text-2xl font-semibold mb-2 ">World Cup Flags Football</h2>
+        <p class="">Dolor sit amet consectetur. Ut urna diam <br> quis sagittis. 
+        </p>
+        <div class="last flex justify-around">
+            <p class="text-red-500 mb-2 font-semibold">$22.00</p>
+            <p>Delivery Fee : Free</p>
+        </div>
+    </div>
+</div>
+</div>
+</div> */
